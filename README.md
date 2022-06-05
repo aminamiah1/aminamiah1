@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Amina Miah
+- I'm a Software Engineering Student
